@@ -4,15 +4,15 @@
 Please refer to this reference used for the build of this Machine learning app:
 Brownlee, J. (2023, September 25). Your first machine learning project in python step-by-step. MachineLearningMastery.com. https://machinelearningmastery.com/machine-learning-in-python-step-by-step/ 
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZianneO/MachineLearningAppPython/HEAD)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZianneO/MachineLearningAppR/HEAD)
 
-(https://mybinder.org/v2/gh/ZianneO/MachineLearningAppPython/HEAD)
+(https://mybinder.org/v2/gh/ZianneO/MachineLearningAppR/HEAD)
 
 A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-(https://mybinder.org/v2/gh/ZianneO/MachineLearningAppPython/HEAD)
+(https://mybinder.org/v2/gh/ZianneO/MachineLearningAppR/HEAD)
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
