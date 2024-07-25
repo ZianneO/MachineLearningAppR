@@ -1,8 +1,8 @@
 # Machine Learning App in Python 
 
 ## Citation
-Please refer to this reference used for the build of this Machine learning app:
-Brownlee, J. (2023, September 25). Your first machine learning project in python step-by-step. MachineLearningMastery.com. https://machinelearningmastery.com/machine-learning-in-r-step-by-step/
+Please refer to this reference used for the build of this Machine learning app in R:
+Brownlee, J. (2019, October 7). Your first machine learning project in R step-by-step. MachineLearningMastery.com. https://machinelearningmastery.com/machine-learning-in-r-step-by-step/ 
 
 [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZianneO/MachineLearningAppR/HEAD)
 
@@ -35,4 +35,4 @@ be removed are:
 * appnope=0.1.0
 * libgfortran=3.0.1
 * libcxx=4.0.1
-# BSGP7030-Machine Learning App Python
+# BSGP7030-Machine Learning App in R
