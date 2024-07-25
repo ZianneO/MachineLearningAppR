@@ -1,30 +1,16 @@
-name: environment
+name: R environment
 channels:
   - conda-forge
   - bioconda
   - defaults
 dependencies:
-  - python=3.9
   - r-base=4.0
-  - plotly
-  - numpy
-  - psutil
-  - toolz
-  - matplotlib
-  - dill
-  - pandas
-  - partd
-  - bokeh
-  - dask
-  - scikit-learn
   - r-dplyr
   - r-ggplot2
   - r-reshape2
   - r-tidyverse
   - r-stringr
-  - scipy
-  - kernlab
-  - randomForest
-  - ellipse
-  - ggplot2
-  - caret
+  - r-kernlab
+  - r-randomforest
+  - r-ellipse
+  - r-caret
