@@ -14,3 +14,7 @@ dependencies:
   - r-randomforest
   - r-ellipse
   - r-caret
+  - r-e1071
+  - r-xgboost
+  - r-nnet
+  - r-keras
