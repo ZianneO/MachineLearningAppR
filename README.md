@@ -2,7 +2,7 @@
 
 ## Citation
 Please refer to this reference used for the build of this Machine learning app:
-Brownlee, J. (2023, September 25). Your first machine learning project in python step-by-step. MachineLearningMastery.com. https://machinelearningmastery.com/machine-learning-in-python-step-by-step/ 
+Brownlee, J. (2023, September 25). Your first machine learning project in python step-by-step. MachineLearningMastery.com. https://machinelearningmastery.com/machine-learning-in-r-step-by-step/
 
 [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZianneO/MachineLearningAppR/HEAD)
 
