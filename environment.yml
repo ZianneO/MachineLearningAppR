@@ -11,10 +11,11 @@ dependencies:
   - r-tidyverse
   - r-stringr
   - r-kernlab
-  - r-randomforest
+  - r-randomForest
   - r-ellipse
   - r-caret
   - r-e1071
   - r-xgboost
   - r-nnet
   - r-keras
+
